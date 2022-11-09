@@ -30,7 +30,8 @@
 [<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/emprover.png' alt='Uptick Network'  width='117'>](https://www.empower.eco/)
 [<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/humanode.jpg' alt='Uptick Network'  width='117'>](https://humanode.io/)
 [<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/nibiru.png' alt='Uptick Network'  width='117'>](https://nibiru.explorers.guru/validator/nibivaloper18pmu4hth048ftwaz0nzj5gp02hvz7uzen79gc8)
-[<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/obol.PNG' alt='Uptick Network'  width='117'>]
+
+<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/obol.PNG' alt='Uptick Network'  width='117'>
 
 <h1 align="center"><h1 align="center">📝 Statistic</h1>
 
