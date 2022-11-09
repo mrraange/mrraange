@@ -9,6 +9,9 @@
 
 <h1 align="center">🗄️ Mainnet</h1>
 
+[<img src='https://github.com/mrraange/mainnet-logo/blob/e40de705bebc7c00809b12b67dc7575f6e2a12b9/aptos.png' alt='aptos'  width='117'>](https://explorer.aptoslabs.com/Validators)
+
+[<img src='https://github.com/mrraange/mainnet-logo/blob/e40de705bebc7c00809b12b67dc7575f6e2a12b9/graph.jpg' alt='The Graph'  width='117'>](https://thegraph.com/explorer/profile?id=0x61c713ff1fda089188f7b450df224d1b96467e21&view=Indexing)
 
 [<img src='https://github.com/mrraange/mainnet-logo/blob/d4047ba508679c30a99722001cc3c39d3534d363/canto.png' alt='Canto'  width='117'>](https://explorer.nodestake.top/canto/staking/cantovaloper14hr6ew8jcdhslnxnqj2yz8u8t7lu5tznr0s9cd)
 
@@ -16,7 +19,7 @@
 
 [<img src='https://github.com/mrraange/mainnet-logo/blob/e843c3ecae5e2de2eeb0f4bfbc21e383d0be34b9/rebus.png' alt='Rebus'  width='117'>](https://rebus.explorers.guru/validator/rebusvaloper1hcntqnnxshswsyf77j2n8trwzajx3w4cyerz3w)
 
-[<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/jackal.jpg' alt='Rebus'  width='117'>](https://explorer.nodestake.top/jackal/staking/jklvaloper10seqc5w66wjax28f9shfdfl76k6hrz3n9pc3xv)
+[<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/jackal.jpg' alt='Jackal'  width='117'>](https://explorer.nodestake.top/jackal/staking/jklvaloper10seqc5w66wjax28f9shfdfl76k6hrz3n9pc3xv)
 
 <h1 align="center">🗄️ Testnet</h1>
 
@@ -27,11 +30,11 @@
 [<img src='https://github.com/mrraange/mainnet-logo/blob/cea9d409b23df2c6826992699158bdf8cf37838e/TerpNetwork.png' alt='Terp Network'  width='117'>](https://explorer.nodestake.top/terp-testnet/staking/terpvaloper177zl4jfvlmyf7lpc73yd4xq54tca0agy79x5aj)
 
 [<img src='https://github.com/mrraange/mainnet-logo/blob/c48e7d9b13545f7c0ffb448ba71ee7c2ba8ff743/Uptick%20Network.png' alt='Uptick Network'  width='117'>](https://uptick.explorers.guru/validator/uptickvaloper1qnzsvw22vq4v9r65lttlx974gt5jmentad4gww)
-[<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/emprover.png' alt='Uptick Network'  width='117'>](https://www.empower.eco/)
-[<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/humanode.jpg' alt='Uptick Network'  width='117'>](https://humanode.io/)
-[<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/nibiru.png' alt='Uptick Network'  width='117'>](https://nibiru.explorers.guru/validator/nibivaloper18pmu4hth048ftwaz0nzj5gp02hvz7uzen79gc8)
+[<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/emprover.png' alt=''  width='117'>](https://www.empower.eco/)
+[<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/humanode.jpg' alt='Humanode'  width='117'>](https://humanode.io/)
+[<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/nibiru.png' alt='Nibiru'  width='117'>](https://nibiru.explorers.guru/validator/nibivaloper18pmu4hth048ftwaz0nzj5gp02hvz7uzen79gc8)
 
-<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/obol.PNG' alt='Uptick Network'  width='117'>
+<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/obol.PNG' alt='Obol'  width='117'>
 
 <h1 align="center"><h1 align="center">📝 Statistic</h1>
 
