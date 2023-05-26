@@ -7,7 +7,7 @@
  
  🌐 **https://rangenodes.com**
 
-<h1 align="center">🗄️ Mainnet</h1>
+<h1 align="center">🗄️ Mainnets</h1>
 
 [<img src='https://github.com/mrraange/mainnet-logo/blob/e40de705bebc7c00809b12b67dc7575f6e2a12b9/aptos.png' alt='aptos'  width='117'>](https://explorer.aptoslabs.com/Validators)
 
@@ -21,7 +21,7 @@
 
 [<img src='https://github.com/mrraange/mainnet-logo/blob/f12f1f225ccffe6095f73032c36e3c0559f16721/jackal.jpg' alt='Jackal'  width='117'>](https://explorer.nodestake.top/jackal/staking/jklvaloper10seqc5w66wjax28f9shfdfl76k6hrz3n9pc3xv)
 
-<h1 align="center">🗄️ Testnet</h1>
+<h1 align="center">🗄️ Testnets</h1>
 
 [<img src='https://github.com/mrraange/mainnet-logo/blob/e843c3ecae5e2de2eeb0f4bfbc21e383d0be34b9/celestia.PNG' alt='Celestia'  width='117'>](https://celestia.explorers.guru/validator/celestiavaloper1qg3cuvj7mtw9q5jmgnqkxyag5jyneheem8rvx5)
 [<img src='https://github.com/mrraange/mainnet-logo/blob/7a2b59c73527379c34d910f400e3d4ef53c8c2f3/DeFund.png' alt='DeFund'  width='117'>](https://defund.explorers.guru/validator/defundvaloper1tlvttjkz9ecuyq5z2x7z8au0x3t0uppux328zx)
