@@ -7,7 +7,7 @@
  
  🌐 **https://rangenodes.com**
 
-<h1 align="center">🗄️ Mainnets</h1>
+<h1 align="center">🗄️ Mainnets </h1>
 
 [<img src='https://github.com/mrraange/mainnet-logo/blob/e40de705bebc7c00809b12b67dc7575f6e2a12b9/aptos.png' alt='aptos'  width='117'>](https://explorer.aptoslabs.com/Validators)
 
