@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=PoS+Validator+Range,+Blockchain+Enthusiast)](https://git.io/typing-svg)
 
- 💌 **mr.raange@gmail.com**
+ 💌 **mr.raange@gmail.com** 
  
   
  🌐 **https://rangenodes.com**  
