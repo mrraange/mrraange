@@ -5,7 +5,6 @@
 
  💌 **mr.raange@gmail.com** 
  
- 
  🌐 **https://rangenodes.com**   
 
 <h1 align="center">🗄️ Mainnets </h1>
